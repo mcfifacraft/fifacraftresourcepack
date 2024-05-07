@@ -16,7 +16,7 @@
 <br>
 </div>
 
-- This resource pack contains all of the texture and models that make up the game.
+- This resource pack contains all of the textures and models that are used on the server.
 
 - OptiFine is highly recommended so you are able to see the custom CEM model for the ball, but it is not necessary; you can play the game perfectly fine without it. 
   - Optionally, you could use any mod that adds CEM functionality to the game.
