@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "dead_horn_coral", "weight": 11 },
+            { "model": "dead_horn_coral_1", "weight": 11 },
+            { "model": "dead_horn_coral_2", "weight": 11 },
+            { "model": "dead_horn_coral_3", "weight": 11 },    
+            { "model": "dead_horn_coral_4", "weight": 11 },
+            { "model": "dead_horn_coral_5", "weight": 11 },
+            { "model": "dead_horn_coral_6", "weight": 11 },
+            { "model": "dead_horn_coral_7", "weight": 11 },  
+            { "model": "dead_horn_coral_8", "weight": 11 } 				
+			]
+    }
+}
