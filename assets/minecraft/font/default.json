@@ -2,6 +2,15 @@
     "providers": [
         {
             "type": "bitmap",
+            "file": "minecraft:custom/player.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "令"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom/logo.png",
             "ascent": 44,
             "height": 46,
