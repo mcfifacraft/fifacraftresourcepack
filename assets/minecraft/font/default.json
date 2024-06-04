@@ -65,11 +65,11 @@
         },
         {
             "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -8,
+            "file": "minecraft:custom/setting.png",
+            "ascent": 8,
+            "height": 8,
             "chars": [
-                "\uF806"
+                "丐"
             ]
         },
         {
