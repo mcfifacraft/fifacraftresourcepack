@@ -29,38 +29,38 @@
         },
         {
             "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -4,
+            "file": "minecraft:custom/ball.png",
+            "ascent": 8,
+            "height": 9,
             "chars": [
-                "\uF802"
+                "三"
             ]
         },
         {
             "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -5,
+            "file": "minecraft:custom/staff.png",
+            "ascent": 12,
+            "height": 17,
             "chars": [
-                "\uF803"
+                "上"
             ]
         },
         {
             "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -6,
+            "file": "minecraft:custom/moderator.png",
+            "ascent": 8,
+            "height": 8,
             "chars": [
-                "\uF804"
+                "下"
             ]
         },
         {
             "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -7,
+            "file": "minecraft:custom/admin.png",
+            "ascent": 8,
+            "height": 8,
             "chars": [
-                "\uF805"
+                "丌"
             ]
         },
         {
