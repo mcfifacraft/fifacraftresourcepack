@@ -74,29 +74,29 @@
         },
         {
             "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -9,
+            "file": "minecraft:custom/player.png",
+            "ascent": 7,
+            "height": 8,
             "chars": [
-                "\uF807"
+                "丑"
             ]
         },
         {
             "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -10,
+            "file": "minecraft:custom/moderator.png",
+            "ascent": 7,
+            "height": 8,
             "chars": [
-                "\uF808"
+                "丒"
             ]
         },
         {
             "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -18,
+            "file": "minecraft:custom/admin.png",
+            "ascent": 7,
+            "height": 8,
             "chars": [
-                "\uF809"
+                "专"
             ]
         },
         {
