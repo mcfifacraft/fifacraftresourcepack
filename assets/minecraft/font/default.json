@@ -101,20 +101,20 @@
         },
         {
             "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -34,
+            "file": "minecraft:custom/fa.png",
+            "ascent": 8,
+            "height": 8,
             "chars": [
-                "\uF80A"
+                "且"
             ]
         },
         {
             "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -66,
+            "file": "minecraft:custom/fa.png",
+            "ascent": 7,
+            "height": 8,
             "chars": [
-                "\uF80B"
+                "丕"
             ]
         },
         {
